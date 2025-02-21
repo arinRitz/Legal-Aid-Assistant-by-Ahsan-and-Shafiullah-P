@@ -114,3 +114,5 @@ This project is licensed under the MIT License.
 
 For any queries, reach out [Linkedin](https://www.linkedin.com/in/ahsan-raza8hbb/)
 
+
+Note: This is not the full version of AI-POWERED LEGAL AID ASSISTANT
